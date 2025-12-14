@@ -34,4 +34,5 @@ async def check(ctx):
 
 
 
-bot.run("MTM4OTc2OTgzMTQ0MzU5OTQ5MQ.GpSM05.33EVkJLGAsXz4cz-_kgYbt0ZCGJ7d8GXrzOP9Y")
+
+bot.run("TU_TOKEM_AQUÍ")
